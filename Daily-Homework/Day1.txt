@@ -1,4 +1,8 @@
 Day 1 Homework:
 
-Amazon S3 replication and versioning
+
+- MFA Setup: try to get 5 checkmarks by setting up MFA under IAM
+
+
+- Amazon S3 replication and versioning
 https://www.youtube.com/watch?v=_AzblCVy5Z4

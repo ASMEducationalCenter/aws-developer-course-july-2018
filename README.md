@@ -5,7 +5,7 @@
 https://s3.amazonaws.com/developer-bootcamp11/Amazon+AWS+Artiteture+Lab_All_collected_together_to+be_+printed_4_6_2018.pdf
 
 ## AWS CLI
-aws.amazon.com/cli
+https://aws.amazon.com/cli
 
 
 ## Course Objective:

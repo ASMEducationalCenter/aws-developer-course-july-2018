@@ -1,0 +1,3 @@
+- finish IAM and CLI, we'll revisit IAM later.
+- S3 introduction and labs (versioning) |  demo (lifecycle managemetnt)
+- Static website hosting and create a Resume website.. to be continued day 3

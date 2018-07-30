@@ -2,10 +2,10 @@
 
 
 ## Link for the Labs:
-https://s3.amazonaws.com/developer-bootcamp11/Amazon+AWS+Artiteture+Lab_All_collected_together_to+be_+printed_4_6_2018.pdf
+
 
 ## Link for the slides
-https://s3.amazonaws.com/my-website-july1/All-in-one-AWS+-Developer+Sildes+-July+2018+Evening+.pptx
+https://s3.amazonaws.com/bootcamp-files-2018/All-in-one-AWS+-Developer+Sildes+-July+2018+Evening+.pptx
 
 ## AWS CLI
 https://aws.amazon.com/cli

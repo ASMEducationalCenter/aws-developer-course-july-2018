@@ -2,6 +2,7 @@
 
 
 ## Link for the Labs:
+https://s3.amazonaws.com/bootcamp-files/Amazon+AWS+Devopers+Lab++Notes+july+2018.pdf
 
 
 ## Link for the slides
